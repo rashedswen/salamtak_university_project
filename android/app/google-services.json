@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614308088798",
+    "project_id": "salamtak-university",
+    "storage_bucket": "salamtak-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614308088798:android:63046f28a2e3e836c6eb4f",
+        "android_client_info": {
+          "package_name": "com.example.salamtak_university_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614308088798-qktf7img7n03conocekf05kpa8uir0cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salamtak_university_project",
+            "certificate_hash": "a45243a0bf3acc2189d03aac9bcb6560d1f53482"
+          }
+        },
+        {
+          "client_id": "614308088798-1b9dnkh7s96hjqcqi0p1scjm4nhf41pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnpKQjfRelcQt8AjifmHdBT9bC-QibKeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614308088798-1b9dnkh7s96hjqcqi0p1scjm4nhf41pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

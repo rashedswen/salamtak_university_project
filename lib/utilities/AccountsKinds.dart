@@ -1,0 +1,4 @@
+enum accountsKinds{
+ Citizen,
+ HealthWorker,
+}
